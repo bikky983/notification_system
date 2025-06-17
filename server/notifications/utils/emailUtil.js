@@ -25,6 +25,24 @@ handlebars.registerHelper('prop', function(obj, prop) {
     return obj[prop];
 });
 
+// Register a helper to format dates
+handlebars.registerHelper('formatDate', function(dateString) {
+    const date = new Date(dateString);
+    return date.toLocaleDateString('en-US', { 
+        weekday: 'long', 
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+    });
+});
+
+// Register current year helper
+handlebars.registerHelper('currentYear', function() {
+    return new Date().getFullYear();
+});
+
 /**
  * Create email transporter
  * @returns {object} Nodemailer transporter
@@ -55,6 +73,38 @@ function loadTemplate(templateName) {
 }
 
 /**
+ * Get available screenshot attachments
+ * @returns {Array} Array of screenshot attachment objects
+ */
+function getScreenshotAttachments() {
+    const screenshots = [
+        { filename: 'dashboard-loaded.png', path: 'dashboard-loaded.png', cid: 'dashboard-loaded' },
+        { filename: 'rsi-page-loaded.png', path: 'rsi-page-loaded.png', cid: 'rsi-page-loaded' },
+        { filename: 'trendline-page-loaded.png', path: 'trendline-page-loaded.png', cid: 'trendline-page-loaded' },
+        { filename: 'institutional-page-loaded.png', path: 'institutional-page-loaded.png', cid: 'institutional-page-loaded' },
+        { filename: 'heatmap-page-loaded.png', path: 'heatmap-page-loaded.png', cid: 'heatmap-page-loaded' }
+    ];
+    
+    // Filter out non-existent files
+    const existingScreenshots = screenshots.filter(screenshot => {
+        const filepath = screenshot.path;
+        const fullPath = path.resolve(filepath);
+        
+        // Check if the file exists
+        try {
+            fs.accessSync(fullPath, fs.constants.R_OK);
+            screenshot.path = fullPath; // Use full path
+            return true;
+        } catch (error) {
+            console.log(`Screenshot not found: ${filepath}`);
+            return false;
+        }
+    });
+    
+    return existingScreenshots;
+}
+
+/**
  * Send a notification email
  * @param {string} subject - Email subject
  * @param {object} data - Data to be passed to the template
@@ -79,12 +129,17 @@ async function sendNotificationEmail(subject, data) {
             return;
         }
         
+        // Get screenshot attachments
+        const attachments = getScreenshotAttachments();
+        console.log(`Found ${attachments.length} screenshot(s) to attach to the email`);
+        
         // Build email options
         const mailOptions = {
             from: config.email.from,
             to: recipients.join(', '),
             subject: config.email.subjectPrefix + subject,
-            html: htmlContent
+            html: htmlContent,
+            attachments: attachments
         };
         
         console.log(`Sending notification email to ${recipients.length} recipients`);
