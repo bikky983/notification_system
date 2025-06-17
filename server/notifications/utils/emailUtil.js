@@ -89,6 +89,41 @@ async function sendNotificationEmail(subject, data) {
     }
 }
 
+/**
+ * Send a stock notification email with structured data
+ * @param {object} stockData - Processed stock data for the notification
+ * @returns {Promise} Promise that resolves when email is sent
+ */
+async function sendStockNotification(stockData) {
+    try {
+        // Generate a subject based on the content
+        const hasRSI = stockData.rsiSupport?.data?.stocks?.length > 0;
+        const hasTrendline = stockData.trendlineScanner?.data?.new?.length > 0 || 
+                         stockData.trendlineScanner?.data?.existing?.length > 0;
+        const hasInstitutional = stockData.institutionalActivity?.data && 
+                             Object.values(stockData.institutionalActivity.data)
+                                 .some(arr => arr.length > 0);
+                                 
+        // Craft subject based on what we're notifying about
+        let subject = 'Stock Analysis';
+        if (hasRSI) {
+            subject = `${stockData.rsiSupport.data.stocks.length} Stocks at Support`;
+        } else if (hasTrendline) {
+            const newCount = stockData.trendlineScanner.data.new?.length || 0;
+            subject = `${newCount} New Uptrends Detected`;
+        } else if (hasInstitutional) {
+            subject = 'Institutional Activity Alert';
+        }
+        
+        // Send the notification with the generated subject
+        return await sendNotificationEmail(subject, stockData);
+    } catch (error) {
+        console.error('Error sending stock notification:', error);
+        throw error;
+    }
+}
+
 module.exports = {
-    sendNotificationEmail
+    sendNotificationEmail,
+    sendStockNotification
 };
