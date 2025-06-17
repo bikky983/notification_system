@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2025-06-17T14:50:10.684Z",
+  "lastUpdated": "2025-06-17T15:20:01.467Z",
   "institutionalStocks": {
     "300.62": {
       "score": 15,
       "price": 65,
       "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-06-17T14:50:10.682Z"
+      "lastUpdated": "2025-06-17T15:20:01.465Z"
     },
     "1180.77": {
       "score": 60,
       "price": 0,
       "patterns": "OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-06-17T14:50:10.682Z"
+      "lastUpdated": "2025-06-17T15:20:01.465Z"
     },
     "614.99": {
       "score": 0,
       "price": 60,
       "patterns": "OBV Bearish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-06-17T14:50:10.682Z"
+      "lastUpdated": "2025-06-17T15:20:01.465Z"
     },
     "644.49": {
       "score": 0,
       "price": 55,
       "patterns": "Volume Spike (Bearish), Above VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-06-17T14:50:10.682Z"
+      "lastUpdated": "2025-06-17T15:20:01.465Z"
     },
     "846.51": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-06-17T14:50:10.682Z"
+      "lastUpdated": "2025-06-17T15:20:01.465Z"
     }
   },
   "trendlineStocks": {},
@@ -39,42 +39,42 @@
       "rsi": 28.77,
       "supportPrice1": 1824.82,
       "diff1": "",
-      "lastUpdated": "2025-06-17T14:50:10.684Z"
+      "lastUpdated": "2025-06-17T15:20:01.467Z"
     },
     "HLI\n                New": {
       "ltp": 388.38,
       "rsi": 29.61,
       "supportPrice1": 392.41,
       "diff1": "",
-      "lastUpdated": "2025-06-17T14:50:10.684Z"
+      "lastUpdated": "2025-06-17T15:20:01.467Z"
     },
     "SAMAJ\n                New": {
       "ltp": 2273.92,
       "rsi": 32.79,
       "supportPrice1": 2238.19,
       "diff1": "",
-      "lastUpdated": "2025-06-17T14:50:10.684Z"
+      "lastUpdated": "2025-06-17T15:20:01.467Z"
     },
     "IHL\n                New": {
       "ltp": 517.98,
       "rsi": 33.04,
       "supportPrice1": 514.72,
       "diff1": "",
-      "lastUpdated": "2025-06-17T14:50:10.684Z"
+      "lastUpdated": "2025-06-17T15:20:01.467Z"
     },
     "SNLI\n                New": {
       "ltp": 475.61,
       "rsi": 33.15,
       "supportPrice1": 455.88,
       "diff1": "",
-      "lastUpdated": "2025-06-17T14:50:10.684Z"
+      "lastUpdated": "2025-06-17T15:20:01.467Z"
     },
     "ENL\n                New": {
       "ltp": 1082.9,
       "rsi": 34.79,
       "supportPrice1": 1066.46,
       "diff1": "",
-      "lastUpdated": "2025-06-17T14:50:10.684Z"
+      "lastUpdated": "2025-06-17T15:20:01.467Z"
     }
   },
   "heatmapStocks": {}
