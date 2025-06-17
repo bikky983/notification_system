@@ -60,7 +60,9 @@ jobs:
         node-version: '18'
         
     - name: Install dependencies
-      run: npm install
+      run: |
+        npm install
+        npm install puppeteer@19.7.0 --save
       
     - name: Create required directories
       run: |
@@ -129,8 +131,10 @@ jobs:
         echo "Starting local server in background..."
         nohup node server.js > server.log 2>&1 &
         echo "Waiting for server to start..."
-        sleep 10
+        sleep 20
         echo "Local server started"
+        # Check if server is running
+        ps aux | grep server.js
         
     - name: Create enhanced browser automation script
       run: |
@@ -153,6 +157,11 @@ jobs:
           console.error('Error loading settings:', error.message);
         }
         
+        // Function to wait for timeout (replacement for page.waitForTimeout)
+        function wait(ms) {
+          return new Promise(resolve => setTimeout(resolve, ms));
+        }
+
         // Function to capture screenshots for debugging
         async function captureScreenshot(page, name) {
           await page.screenshot({ path: `${name}.png` });
@@ -210,7 +219,7 @@ jobs:
                 await uploadButton.uploadFile(excelFilePath);
                 
                 // Wait for the file to be processed
-                await page.waitForTimeout(5000);
+                await wait(5000);
                 
                 await captureScreenshot(page, 'excel-uploaded');
                 
@@ -225,7 +234,7 @@ jobs:
             }
             
             // Wait for local storage to be populated
-            await page.waitForTimeout(3000);
+            await wait(3000);
             
             // Visit each page and collect data
             const pagesToVisit = [
@@ -294,7 +303,7 @@ jobs:
                   try {
                     await page.waitForSelector('#refreshListBtn', { timeout: 5000 });
                     await page.click('#refreshListBtn');
-                    await page.waitForTimeout(3000);
+                    await wait(3000);
                   } catch (error) {
                     console.log('No refresh button found or could not click it');
                   }
@@ -349,7 +358,7 @@ jobs:
                   try {
                     await page.waitForSelector('#refreshBtn', { timeout: 5000 });
                     await page.click('#refreshBtn');
-                    await page.waitForTimeout(3000);
+                    await wait(3000);
                   } catch (error) {
                     console.log('No refresh button found or could not click it');
                   }
@@ -452,7 +461,7 @@ jobs:
               });
               
               // Allow time for page to process data
-              await page.waitForTimeout(5000);
+              await wait(5000);
               
               // Apply custom settings if this is the RSI support page
               if (useCustomSettings && pageInfo.key === 'rsiSupport' && pageSettings.rsiSupport) {
@@ -517,7 +526,7 @@ jobs:
                   const refreshButton = await page.$('#refreshListBtn');
                   if (refreshButton) {
                     await refreshButton.click();
-                    await page.waitForTimeout(3000);
+                    await wait(3000);
                   }
                   
                   console.log('RSI Support settings applied');
@@ -576,7 +585,7 @@ jobs:
                   const refreshButton = await page.$('#refreshListBtn');
                   if (refreshButton) {
                     await refreshButton.click();
-                    await page.waitForTimeout(5000);
+                    await wait(5000);
                   }
                   
                   console.log('Trendline Scanner settings applied');
@@ -602,7 +611,7 @@ jobs:
                     const applyButton = await page.$('#applyDaysBtn');
                     if (applyButton) {
                       await applyButton.click();
-                      await page.waitForTimeout(2000);
+                      await wait(2000);
                     }
                   }
                   
@@ -636,7 +645,7 @@ jobs:
                     const viewButton = await page.$(`#${settings.viewMode}ViewBtn`);
                     if (viewButton) {
                       await viewButton.click();
-                      await page.waitForTimeout(1000);
+                      await wait(1000);
                     }
                   }
                   
@@ -707,7 +716,7 @@ jobs:
                   const refreshButton = await page.$('#refreshBtn');
                   if (refreshButton) {
                     await refreshButton.click();
-                    await page.waitForTimeout(3000);
+                    await wait(3000);
                   }
                   
                   console.log('Institutional Activity settings applied');
@@ -755,8 +764,18 @@ jobs:
         });
         EOL
         
-    - name: Run browser automation
-      run: node automate-browser.js
+    - name: Run browser automation with more debugging
+      run: |
+        # Install useful diagnostic tools
+        npm list puppeteer
+        # Run browser automation with debugging
+        NODE_DEBUG=puppeteer node automate-browser.js || {
+          echo "Browser automation failed, listing available files:"
+          ls -la
+          echo "Checking server log:"
+          cat server.log
+          exit 1
+        }
       
     - name: Run stock notifications with enhanced data
       run: node server/notifications/sendNotifications.js --now
