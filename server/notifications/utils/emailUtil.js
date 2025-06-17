@@ -15,6 +15,16 @@ handlebars.registerHelper('toLowerCase', function(str) {
     return str.toLowerCase();
 });
 
+// Register comparison helper
+handlebars.registerHelper('gt', function(a, b) {
+    return a > b;
+});
+
+// Register helper to access object properties with dots in them
+handlebars.registerHelper('prop', function(obj, prop) {
+    return obj[prop];
+});
+
 /**
  * Create email transporter
  * @returns {object} Nodemailer transporter
