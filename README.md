@@ -4,7 +4,7 @@ This application provides a comprehensive NEPSE stock screening platform with au
 
 ## Features
 
-- **Web Interface**: View stock data on a responsive web dashboard
+- **Web Interface**: View stock data on a rsesponsive web dashboard
 - **Institutional Activity Monitoring**: Get notifications about stocks with high institutional scores
 - **Enhanced Trendline Scanner**: Track stocks in uptrends and get notified of new trends
 - **Weekly Heatmap**: Monitor top volume stocks by sector
