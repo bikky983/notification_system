@@ -1,6 +1,7 @@
 // Common navigation component for all pages
 document.addEventListener('DOMContentLoaded', function() {
-    const navContainer = document.querySelector('.nav-links');
+    // Look for the navigation container - check both new and old selectors
+    const navContainer = document.querySelector('#navigation-links') || document.querySelector('.nav-links');
     
     if (navContainer) {
         // Define all pages in the application
@@ -16,7 +17,8 @@ document.addEventListener('DOMContentLoaded', function() {
             { name: 'Enhanced Trendline Scanner', url: 'enhanced-trendline-scanner.html' },
             { name: 'Institutional Activity', url: 'institutional-activity.html' },
             { name: 'Big Player Accumulation', url: 'big-player-accumulation.html' },
-            { name: 'IPO Automation', url: 'ipo-automation.html' }
+            { name: 'Weekly Heatmap', url: 'heatmap.html' },
+            { name: 'IPO & Rights', url: 'ipo-rights.html' }
             // New pages should be added here
         ];
         
