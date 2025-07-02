@@ -1,133 +1,79 @@
 {
-  "lastUpdated": "2025-07-01T11:32:16.573Z",
+  "lastUpdated": "2025-07-02T11:32:36.011Z",
   "institutionalStocks": {
-    "342.00": {
+    "338.35": {
       "score": 60,
       "price": 0,
       "patterns": "OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
+      "lastUpdated": "2025-07-02T11:32:36.008Z"
     },
-    "1642.06": {
+    "1609.16": {
+      "score": 55,
+      "price": 20,
+      "patterns": "Volume Spike (Bullish), Below VWAP, Stopping Volume (Bullish), Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-02T11:32:36.008Z"
+    },
+    "492.72": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
+      "lastUpdated": "2025-07-02T11:32:36.008Z"
     },
-    "1562.30": {
-      "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
-    },
-    "1666.43": {
-      "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
-    },
-    "1486.44": {
+    "535.77": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
+      "lastUpdated": "2025-07-02T11:32:36.008Z"
     },
-    "862.01": {
+    "409.22": {
       "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
-    },
-    "817.35": {
-      "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
-    },
-    "219.60": {
-      "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-01T11:32:16.570Z"
+      "price": 45,
+      "patterns": "Volume Spike (Bullish), OBV Bearish Divergence, Below VWAP, Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-02T11:32:36.008Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "BHPL\n                New": {
-      "ltp": 725.71,
-      "rsi": 30.66,
-      "supportPrice1": 721.96,
-      "diff1": "",
-      "lastUpdated": "2025-07-01T11:32:16.573Z"
-    },
     "SPHL\n                New": {
-      "ltp": 630.17,
-      "rsi": 32.02,
+      "ltp": 632,
+      "rsi": 33.22,
       "supportPrice1": 623.36,
       "diff1": "",
-      "lastUpdated": "2025-07-01T11:32:16.573Z"
+      "lastUpdated": "2025-07-02T11:32:36.011Z"
     },
-    "SGHC\n                NewBought": {
-      "ltp": 397,
-      "rsi": 32.41,
-      "supportPrice1": 392.48,
+    "BHPL\n                New": {
+      "ltp": 736.51,
+      "rsi": 33.94,
+      "supportPrice1": 721.96,
       "diff1": "",
-      "lastUpdated": "2025-07-01T11:32:16.573Z"
-    },
-    "TSHL\n                New": {
-      "ltp": 638.38,
-      "rsi": 33.05,
-      "supportPrice1": 632.49,
-      "diff1": "",
-      "lastUpdated": "2025-07-01T11:32:16.573Z"
-    },
-    "CFCL\n                New": {
-      "ltp": 496.38,
-      "rsi": 33.5,
-      "supportPrice1": 500,
-      "diff1": "",
-      "lastUpdated": "2025-07-01T11:32:16.573Z"
+      "lastUpdated": "2025-07-02T11:32:36.011Z"
     }
   },
   "heatmapStocks": {
-    "342.00": {
+    "338.35": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
+      "lastUpdated": "2025-07-02T11:32:36.010Z"
     },
-    "1642.06": {
+    "1609.16": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
+      "lastUpdated": "2025-07-02T11:32:36.011Z"
     },
-    "1562.30": {
+    "492.72": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
+      "lastUpdated": "2025-07-02T11:32:36.011Z"
     },
-    "1666.43": {
+    "535.77": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
+      "lastUpdated": "2025-07-02T11:32:36.011Z"
     },
-    "1486.44": {
+    "409.22": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
-    },
-    "862.01": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
-    },
-    "817.35": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
-    },
-    "219.60": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-07-01T11:32:16.572Z"
+      "lastUpdated": "2025-07-02T11:32:36.011Z"
     }
   }
 }
