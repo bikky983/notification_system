@@ -1,28 +1,39 @@
 {
-  "lastUpdated": "2025-07-07T11:32:09.431Z",
+  "lastUpdated": "2025-07-08T11:32:37.211Z",
   "institutionalStocks": {
-    "2351.98": {
+    "2365.00": {
       "score": 80,
       "price": 0,
-      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-07T11:32:09.428Z"
+      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Above VWAP, Stopping Volume (Bullish), Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-08T11:32:37.208Z"
+    },
+    "659.24": {
+      "score": 55,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-08T11:32:37.208Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "ENL\n                New": {
-      "ltp": 1054,
-      "rsi": 34.09,
-      "supportPrice1": 1066.46,
+    "BHPL\n                New": {
+      "ltp": 733.42,
+      "rsi": 34.3,
+      "supportPrice1": 721.96,
       "diff1": "",
-      "lastUpdated": "2025-07-07T11:32:09.431Z"
+      "lastUpdated": "2025-07-08T11:32:37.211Z"
     }
   },
   "heatmapStocks": {
-    "2351.98": {
+    "2365.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-07T11:32:09.430Z"
+      "lastUpdated": "2025-07-08T11:32:37.210Z"
+    },
+    "659.24": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-07-08T11:32:37.210Z"
     }
   }
 }
