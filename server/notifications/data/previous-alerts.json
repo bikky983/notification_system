@@ -1,47 +1,23 @@
 {
-  "lastUpdated": "2025-07-20T11:31:44.376Z",
+  "lastUpdated": "2025-07-21T11:34:24.432Z",
   "institutionalStocks": {
-    "303.33": {
-      "score": 15,
-      "price": 65,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Stopping Volume (Bearish), Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-20T11:31:44.374Z"
-    },
-    "504.58": {
-      "score": 15,
-      "price": 65,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-20T11:31:44.374Z"
-    },
-    "437.35": {
-      "score": 15,
-      "price": 65,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Stopping Volume (Bearish), Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-20T11:31:44.374Z"
-    },
-    "674.69": {
-      "score": 60,
+    "5600.29": {
+      "score": 55,
       "price": 0,
-      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Below VWAP, Stopping Volume (Bullish), Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-20T11:31:44.374Z"
+      "patterns": "Volume Spike (Bullish), Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-21T11:34:24.430Z"
     },
-    "2000.59": {
-      "score": 0,
-      "price": 60,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-07-20T11:31:44.374Z"
-    },
-    "559.58": {
+    "489.82": {
       "score": 55,
       "price": 20,
-      "patterns": "Volume Spike (Bullish), Stopping Volume (Bullish), Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-20T11:31:44.374Z"
+      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-21T11:34:24.430Z"
     },
-    "227.85": {
-      "score": 0,
-      "price": 55,
-      "patterns": "Volume Spike (Bearish), Stopping Volume (Bearish), Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-07-20T11:31:44.374Z"
+    "1357.75": {
+      "score": 50,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Stopping Volume (Bullish), Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-21T11:34:24.430Z"
     }
   },
   "trendlineStocks": {},
@@ -55,40 +31,20 @@
     }
   },
   "heatmapStocks": {
-    "303.33": {
+    "5600.29": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-20T11:31:44.376Z"
+      "lastUpdated": "2025-07-21T11:34:24.432Z"
     },
-    "504.58": {
+    "489.82": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-20T11:31:44.376Z"
+      "lastUpdated": "2025-07-21T11:34:24.432Z"
     },
-    "437.35": {
+    "1357.75": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-20T11:31:44.376Z"
-    },
-    "674.69": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-07-20T11:31:44.376Z"
-    },
-    "2000.59": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-07-20T11:31:44.376Z"
-    },
-    "559.58": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-07-20T11:31:44.376Z"
-    },
-    "227.85": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-07-20T11:31:44.376Z"
+      "lastUpdated": "2025-07-21T11:34:24.432Z"
     }
   }
 }
