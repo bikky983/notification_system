@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-07-22T11:33:55.021Z",
+  "lastUpdated": "2025-07-23T11:34:35.988Z",
   "institutionalStocks": {
-    "undefined": {
-      "score": 0,
-      "price": null,
-      "patterns": "",
-      "lastUpdated": "2025-07-22T11:33:55.020Z"
+    "638.84": {
+      "score": 50,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Above VWAP, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-23T11:34:35.986Z"
     }
   },
   "trendlineStocks": {},
@@ -18,5 +18,11 @@
       "lastUpdated": "2025-07-16T11:33:56.283Z"
     }
   },
-  "heatmapStocks": {}
+  "heatmapStocks": {
+    "638.84": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-07-23T11:34:35.988Z"
+    }
+  }
 }
