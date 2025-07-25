@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-07-24T11:34:16.174Z",
+  "lastUpdated": "2025-07-25T11:33:59.380Z",
   "institutionalStocks": {
     "942.11": {
       "score": 50,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-24T11:34:16.172Z"
+      "lastUpdated": "2025-07-25T11:33:59.378Z"
     }
   },
   "trendlineStocks": {},
@@ -22,7 +22,7 @@
     "942.11": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-24T11:34:16.174Z"
+      "lastUpdated": "2025-07-25T11:33:59.380Z"
     }
   }
 }
