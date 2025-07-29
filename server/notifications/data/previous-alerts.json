@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2025-07-28T11:34:05.626Z",
+  "lastUpdated": "2025-07-29T11:34:08.453Z",
   "institutionalStocks": {
-    "12724.44": {
-      "score": 15,
-      "price": 65,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-07-28T11:34:05.624Z"
+    "1282.74": {
+      "score": 50,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-07-29T11:34:08.449Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
     "KKHC\n                NewBought": {
-      "ltp": 288.26,
-      "rsi": 32.79,
+      "ltp": 290.07,
+      "rsi": 33.65,
       "supportPrice1": 278.86,
       "diff1": "",
-      "lastUpdated": "2025-07-28T11:34:05.626Z"
+      "lastUpdated": "2025-07-29T11:34:08.453Z"
     }
   },
   "heatmapStocks": {
-    "12724.44": {
+    "1282.74": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-28T11:34:05.626Z"
+      "lastUpdated": "2025-07-29T11:34:08.452Z"
     }
   }
 }
