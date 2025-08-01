@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-07-31T11:34:32.253Z",
+  "lastUpdated": "2025-08-01T11:34:00.667Z",
   "institutionalStocks": {
     "329.38": {
       "score": 0,
       "price": 60,
       "patterns": "OBV Bearish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-07-31T11:34:32.251Z"
+      "lastUpdated": "2025-08-01T11:34:00.664Z"
     }
   },
   "trendlineStocks": {},
@@ -15,14 +15,14 @@
       "rsi": 30.86,
       "supportPrice1": 278.86,
       "diff1": "",
-      "lastUpdated": "2025-07-31T11:34:32.253Z"
+      "lastUpdated": "2025-08-01T11:34:00.667Z"
     }
   },
   "heatmapStocks": {
     "329.38": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-07-31T11:34:32.253Z"
+      "lastUpdated": "2025-08-01T11:34:00.666Z"
     }
   }
 }
