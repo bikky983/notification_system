@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2025-08-03T11:34:16.497Z",
+  "lastUpdated": "2025-08-04T11:35:27.759Z",
   "institutionalStocks": {
     "undefined": {
       "score": 0,
       "price": null,
       "patterns": "",
-      "lastUpdated": "2025-08-03T11:34:16.495Z"
+      "lastUpdated": "2025-08-04T11:35:27.757Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "KKHC\n                NewBought": {
-      "ltp": 278.48,
-      "rsi": 30.86,
-      "supportPrice1": 278.86,
+    "GMLI\n                New": {
+      "ltp": 2056.6,
+      "rsi": 33.55,
+      "supportPrice1": 1970.18,
       "diff1": "",
-      "lastUpdated": "2025-08-02T11:32:08.669Z"
+      "lastUpdated": "2025-08-04T11:35:27.759Z"
     }
   },
   "heatmapStocks": {}
