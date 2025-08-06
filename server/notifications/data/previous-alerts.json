@@ -1,46 +1,75 @@
 {
-  "lastUpdated": "2025-08-05T11:35:07.255Z",
+  "lastUpdated": "2025-08-06T11:35:06.113Z",
   "institutionalStocks": {
-    "2411.14": {
+    "2367.20": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-08-05T11:35:07.251Z"
+      "lastUpdated": "2025-08-06T11:35:06.110Z"
     },
-    "2332.63": {
+    "1729.35": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-08-05T11:35:07.251Z"
+      "lastUpdated": "2025-08-06T11:35:06.110Z"
+    },
+    "1939.18": {
+      "score": 55,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-08-06T11:35:06.110Z"
+    },
+    "2440.33": {
+      "score": 55,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-08-06T11:35:06.110Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
     "PRIN\n                New": {
-      "ltp": 800.13,
-      "rsi": 34.01,
+      "ltp": 799.88,
+      "rsi": 33.96,
       "supportPrice1": 780.1,
       "diff1": "",
-      "lastUpdated": "2025-08-05T11:35:07.254Z"
+      "lastUpdated": "2025-08-06T11:35:06.113Z"
+    },
+    "CHL\n                NewBought": {
+      "ltp": 302.9,
+      "rsi": 34.26,
+      "supportPrice1": 304,
+      "diff1": "",
+      "lastUpdated": "2025-08-06T11:35:06.113Z"
     },
     "GMLI\n                New": {
-      "ltp": 2059.41,
-      "rsi": 34.04,
+      "ltp": 2062.6,
+      "rsi": 34.63,
       "supportPrice1": 1970.18,
       "diff1": "",
-      "lastUpdated": "2025-08-05T11:35:07.254Z"
+      "lastUpdated": "2025-08-06T11:35:06.113Z"
     }
   },
   "heatmapStocks": {
-    "2411.14": {
+    "2367.20": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-08-05T11:35:07.254Z"
+      "lastUpdated": "2025-08-06T11:35:06.112Z"
     },
-    "2332.63": {
+    "1729.35": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-08-05T11:35:07.254Z"
+      "lastUpdated": "2025-08-06T11:35:06.112Z"
+    },
+    "1939.18": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-08-06T11:35:06.112Z"
+    },
+    "2440.33": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-08-06T11:35:06.112Z"
     }
   }
 }
