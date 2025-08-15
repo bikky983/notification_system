@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-08-14T11:33:07.431Z",
+  "lastUpdated": "2025-08-15T11:31:17.800Z",
   "institutionalStocks": {
     "undefined": {
       "score": 0,
       "price": null,
       "patterns": "",
-      "lastUpdated": "2025-08-14T11:33:07.428Z"
+      "lastUpdated": "2025-08-15T11:31:17.797Z"
     }
   },
   "trendlineStocks": {},
@@ -15,49 +15,49 @@
       "rsi": 18.85,
       "supportPrice1": 583.52,
       "diff1": "",
-      "lastUpdated": "2025-08-14T11:33:07.431Z"
+      "lastUpdated": "2025-08-15T11:31:17.800Z"
     },
     "PRIN\n                New": {
       "ltp": 780.49,
       "rsi": 29.64,
       "supportPrice1": 780.1,
       "diff1": "",
-      "lastUpdated": "2025-08-14T11:33:07.431Z"
+      "lastUpdated": "2025-08-15T11:31:17.800Z"
     },
     "SJCL\n                NewBought": {
       "ltp": 307.99,
       "rsi": 32.35,
       "supportPrice1": 305.53,
       "diff1": "",
-      "lastUpdated": "2025-08-14T11:33:07.431Z"
+      "lastUpdated": "2025-08-15T11:31:17.800Z"
     },
     "NYADI\n                New": {
       "ltp": 417.53,
       "rsi": 33.2,
       "supportPrice1": 424.22,
       "diff1": "",
-      "lastUpdated": "2025-08-14T11:33:07.431Z"
+      "lastUpdated": "2025-08-15T11:31:17.800Z"
     },
     "GMLI\n                New": {
       "ltp": 2027.73,
       "rsi": 33.67,
       "supportPrice1": 1970.18,
       "diff1": "",
-      "lastUpdated": "2025-08-14T11:33:07.431Z"
+      "lastUpdated": "2025-08-15T11:31:17.800Z"
     },
     "SNLI\n                New": {
       "ltp": 466.38,
       "rsi": 34.23,
       "supportPrice1": 455.88,
       "diff1": "",
-      "lastUpdated": "2025-08-14T11:33:07.431Z"
+      "lastUpdated": "2025-08-15T11:31:17.800Z"
     },
     "SBI\n                New": {
       "ltp": 394.34,
       "rsi": 34.32,
       "supportPrice1": 400,
       "diff1": "",
-      "lastUpdated": "2025-08-14T11:33:07.431Z"
+      "lastUpdated": "2025-08-15T11:31:17.800Z"
     }
   },
   "heatmapStocks": {}
