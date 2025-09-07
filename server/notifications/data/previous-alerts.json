@@ -1,182 +1,182 @@
 {
-  "lastUpdated": "2025-09-06T11:26:33.157Z",
+  "lastUpdated": "2025-09-07T11:27:01.053Z",
   "institutionalStocks": {
     "undefined": {
       "score": 0,
       "price": null,
       "patterns": "",
-      "lastUpdated": "2025-09-06T11:26:33.154Z"
+      "lastUpdated": "2025-09-07T11:27:01.049Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
+    "SSHL\n                NewBought": {
+      "ltp": 175.08,
+      "rsi": 20.45,
+      "supportPrice1": 170.66,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
     "HATHY\n                New": {
-      "ltp": 1059.41,
-      "rsi": 22.62,
+      "ltp": 1038.9,
+      "rsi": 20.95,
       "supportPrice1": 1039.73,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "TPC\n                NewBought": {
-      "ltp": 329.53,
-      "rsi": 24.31,
-      "supportPrice1": 320,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
     "RIDI\n                New": {
-      "ltp": 230.21,
-      "rsi": 24.87,
+      "ltp": 230.05,
+      "rsi": 24.77,
       "supportPrice1": 230.96,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
     "GHL\n                New": {
-      "ltp": 223.02,
-      "rsi": 25.32,
+      "ltp": 222.76,
+      "rsi": 25.13,
       "supportPrice1": 221.85,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
     "CITY\n                New": {
-      "ltp": 601.94,
-      "rsi": 26.87,
+      "ltp": 593.09,
+      "rsi": 25.58,
       "supportPrice1": 583.52,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
+    "TPC\n                NewBought": {
+      "ltp": 331.6,
+      "rsi": 26.6,
+      "supportPrice1": 320,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
     "MCHL\n                New": {
-      "ltp": 482.22,
-      "rsi": 27.38,
+      "ltp": 480,
+      "rsi": 26.75,
       "supportPrice1": 488.25,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "GLBSL\n                New": {
-      "ltp": 2065.77,
-      "rsi": 29.78,
-      "supportPrice1": 2106.34,
+    "EHPL\n                New": {
+      "ltp": 528.09,
+      "rsi": 27,
+      "supportPrice1": 535.26,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "SWBBL\n                New": {
-      "ltp": 827.71,
-      "rsi": 30.03,
-      "supportPrice1": 840,
+    "OHL\n                New": {
+      "ltp": 777.85,
+      "rsi": 27.2,
+      "supportPrice1": 752.96,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "UNLB\n                New": {
-      "ltp": 2030.69,
-      "rsi": 30.49,
-      "supportPrice1": 1936.09,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "BHPL\n                New": {
-      "ltp": 720.02,
-      "rsi": 30.58,
-      "supportPrice1": 721.96,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
     "HURJA\n                New": {
-      "ltp": 229.1,
-      "rsi": 30.99,
+      "ltp": 225.6,
+      "rsi": 27.65,
       "supportPrice1": 223.74,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "AKJCL\n                NewBought": {
-      "ltp": 197.11,
-      "rsi": 32.26,
-      "supportPrice1": 200.07,
+    "UNLB\n                New": {
+      "ltp": 2001,
+      "rsi": 28.22,
+      "supportPrice1": 1936.09,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "SAPDBL\n                New": {
-      "ltp": 787.35,
-      "rsi": 32.38,
-      "supportPrice1": 781.54,
+    "BHPL\n                New": {
+      "ltp": 709,
+      "rsi": 28.47,
+      "supportPrice1": 721.96,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "NMBMF\n                New": {
-      "ltp": 675.6,
-      "rsi": 32.39,
-      "supportPrice1": 682.15,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "NADEP\n                NewBought": {
-      "ltp": 785.38,
-      "rsi": 32.55,
-      "supportPrice1": 800,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
     "MHNL\n                NewBought": {
-      "ltp": 249.19,
-      "rsi": 32.56,
+      "ltp": 245.92,
+      "rsi": 30.42,
       "supportPrice1": 244.71,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "CFCL\n                New": {
-      "ltp": 493.78,
-      "rsi": 32.88,
-      "supportPrice1": 500,
+    "GLBSL\n                New": {
+      "ltp": 2072.1,
+      "rsi": 30.93,
+      "supportPrice1": 2106.34,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "SHLB\n                New": {
-      "ltp": 1796.79,
-      "rsi": 32.9,
-      "supportPrice1": 1777.32,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "CORBL\n                New": {
-      "ltp": 1838.99,
-      "rsi": 32.92,
-      "supportPrice1": 1874.33,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
-    },
-    "UAIL\n                New": {
-      "ltp": 515.21,
-      "rsi": 33.12,
-      "supportPrice1": 496,
-      "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
     "CLI\n                NewBought": {
-      "ltp": 462.95,
-      "rsi": 33.43,
+      "ltp": 460.92,
+      "rsi": 32.03,
       "supportPrice1": 465.4,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "FOWAD\n                New": {
-      "ltp": 1113.47,
+    "SWBBL\n                New": {
+      "ltp": 833.3,
+      "rsi": 32.9,
+      "supportPrice1": 840,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
+    "HPPL\n                New": {
+      "ltp": 478.38,
+      "rsi": 33.46,
+      "supportPrice1": 460.72,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
+    "GBLBS\n                New": {
+      "ltp": 759.8,
+      "rsi": 33.58,
+      "supportPrice1": 748.86,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
+    "NMBMF\n                New": {
+      "ltp": 678.51,
       "rsi": 34.04,
-      "supportPrice1": 1067.21,
+      "supportPrice1": 682.15,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "HLBSL\n                New": {
-      "ltp": 943.42,
-      "rsi": 34.93,
-      "supportPrice1": 905.85,
+    "NADEP\n                NewBought": {
+      "ltp": 789.91,
+      "rsi": 34.15,
+      "supportPrice1": 800,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     },
-    "SMHL\n                New": {
-      "ltp": 888.56,
-      "rsi": 34.97,
-      "supportPrice1": 902.52,
+    "CIT\n                New": {
+      "ltp": 1902.08,
+      "rsi": 34.32,
+      "supportPrice1": 1824.82,
       "diff1": "",
-      "lastUpdated": "2025-09-06T11:26:33.157Z"
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
+    "SNLI\n                New": {
+      "ltp": 457.47,
+      "rsi": 34.38,
+      "supportPrice1": 455.88,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
+    "CHCL\n                New": {
+      "ltp": 501.49,
+      "rsi": 34.49,
+      "supportPrice1": 500,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
+    },
+    "NLICL\n                New": {
+      "ltp": 586.59,
+      "rsi": 34.52,
+      "supportPrice1": 578.32,
+      "diff1": "",
+      "lastUpdated": "2025-09-07T11:27:01.053Z"
     }
   },
   "heatmapStocks": {}
