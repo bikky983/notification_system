@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2025-10-03T11:28:21.245Z",
+  "lastUpdated": "2025-10-04T11:26:26.742Z",
   "institutionalStocks": {
     "472.00": {
       "score": 60,
       "price": 0,
       "patterns": "OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-10-03T11:28:21.242Z"
+      "lastUpdated": "2025-10-04T11:26:26.739Z"
     },
     "940.90": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-10-03T11:28:21.242Z"
+      "lastUpdated": "2025-10-04T11:26:26.739Z"
     }
   },
   "trendlineStocks": {},
@@ -21,47 +21,47 @@
       "rsi": 22.34,
       "supportPrice1": 456,
       "diff1": "",
-      "lastUpdated": "2025-10-03T11:28:21.245Z"
+      "lastUpdated": "2025-10-04T11:26:26.742Z"
     },
     "NIL\n                New": {
       "ltp": 615,
       "rsi": 25.38,
       "supportPrice1": 608,
       "diff1": "",
-      "lastUpdated": "2025-10-03T11:28:21.245Z"
+      "lastUpdated": "2025-10-04T11:26:26.742Z"
     },
     "HRL\n                New": {
       "ltp": 862,
       "rsi": 28.01,
       "supportPrice1": 846.92,
       "diff1": "",
-      "lastUpdated": "2025-10-03T11:28:21.245Z"
+      "lastUpdated": "2025-10-04T11:26:26.742Z"
     },
     "NICL\n                New": {
       "ltp": 549,
       "rsi": 32.11,
       "supportPrice1": 532.56,
       "diff1": "",
-      "lastUpdated": "2025-10-03T11:28:21.245Z"
+      "lastUpdated": "2025-10-04T11:26:26.742Z"
     },
     "EHPL\n                New": {
       "ltp": 530,
       "rsi": 33.47,
       "supportPrice1": 535.26,
       "diff1": "",
-      "lastUpdated": "2025-10-03T11:28:21.245Z"
+      "lastUpdated": "2025-10-04T11:26:26.742Z"
     }
   },
   "heatmapStocks": {
     "472.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-10-03T11:28:21.244Z"
+      "lastUpdated": "2025-10-04T11:26:26.741Z"
     },
     "940.90": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-10-03T11:28:21.244Z"
+      "lastUpdated": "2025-10-04T11:26:26.741Z"
     }
   }
 }
