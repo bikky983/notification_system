@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2025-10-10T11:30:26.508Z",
+  "lastUpdated": "2025-10-11T11:27:19.625Z",
   "institutionalStocks": {
     "undefined": {
       "score": 0,
       "price": null,
       "patterns": "",
-      "lastUpdated": "2025-10-10T11:30:26.506Z"
+      "lastUpdated": "2025-10-11T11:27:19.621Z"
     }
   },
   "trendlineStocks": {},
@@ -15,91 +15,91 @@
       "rsi": 20.63,
       "supportPrice1": 608,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "HEI\n                NewBought": {
       "ltp": 506,
       "rsi": 22.94,
       "supportPrice1": 496,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "MBL\n                New": {
       "ltp": 220,
       "rsi": 25.1,
       "supportPrice1": 210,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "KSBBL\n                New": {
       "ltp": 438,
       "rsi": 29.31,
       "supportPrice1": 420,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "RHPL\n                New": {
       "ltp": 278,
       "rsi": 29.32,
       "supportPrice1": 268.54,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "CREST\n                New": {
       "ltp": 1046,
       "rsi": 30.16,
       "supportPrice1": 1000,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "NMFBS\n                New": {
       "ltp": 1240,
       "rsi": 32.04,
       "supportPrice1": 1193.62,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "MHCL\n                New": {
       "ltp": 408.9,
       "rsi": 32.94,
       "supportPrice1": 402.2,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "SHPC\n                New": {
       "ltp": 500,
       "rsi": 33.41,
       "supportPrice1": 507.85,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "PPCL\n                New": {
       "ltp": 304.1,
       "rsi": 33.61,
       "supportPrice1": 295.58,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "SLBBL\n                New": {
       "ltp": 878,
       "rsi": 34.64,
       "supportPrice1": 880,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "TPC\n                NewBought": {
       "ltp": 317,
       "rsi": 34.86,
       "supportPrice1": 320,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     },
     "FOWAD\n                New": {
       "ltp": 1089,
       "rsi": 34.93,
       "supportPrice1": 1067.21,
       "diff1": "",
-      "lastUpdated": "2025-10-10T11:30:26.508Z"
+      "lastUpdated": "2025-10-11T11:27:19.624Z"
     }
   },
   "heatmapStocks": {}
