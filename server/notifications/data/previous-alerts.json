@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2025-10-30T11:31:01.851Z",
+  "lastUpdated": "2025-10-31T11:30:22.810Z",
   "institutionalStocks": {
     "2002.10": {
       "score": 60,
       "price": 0,
       "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Above VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-10-30T11:31:01.848Z"
+      "lastUpdated": "2025-10-31T11:30:22.807Z"
     },
     "1890.00": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-10-30T11:31:01.848Z"
+      "lastUpdated": "2025-10-31T11:30:22.807Z"
     },
     "1620.00": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-10-30T11:31:01.848Z"
+      "lastUpdated": "2025-10-31T11:30:22.807Z"
     },
     "363.70": {
       "score": 50,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Above VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-10-30T11:31:01.848Z"
+      "lastUpdated": "2025-10-31T11:30:22.807Z"
     }
   },
   "trendlineStocks": {},
@@ -33,29 +33,29 @@
       "rsi": 34.42,
       "supportPrice1": 210,
       "diff1": "",
-      "lastUpdated": "2025-10-30T11:31:01.851Z"
+      "lastUpdated": "2025-10-31T11:30:22.810Z"
     }
   },
   "heatmapStocks": {
     "2002.10": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-10-30T11:31:01.851Z"
+      "lastUpdated": "2025-10-31T11:30:22.809Z"
     },
     "1890.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-10-30T11:31:01.851Z"
+      "lastUpdated": "2025-10-31T11:30:22.809Z"
     },
     "1620.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-10-30T11:31:01.851Z"
+      "lastUpdated": "2025-10-31T11:30:22.809Z"
     },
     "363.70": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-10-30T11:31:01.851Z"
+      "lastUpdated": "2025-10-31T11:30:22.809Z"
     }
   }
 }
