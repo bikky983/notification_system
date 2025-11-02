@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2025-11-01T11:28:14.131Z",
+  "lastUpdated": "2025-11-02T11:27:59.644Z",
   "institutionalStocks": {
-    "2002.10": {
-      "score": 60,
+    "528.00": {
+      "score": 80,
       "price": 0,
-      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Above VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-01T11:28:14.129Z"
+      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-11-02T11:27:59.642Z"
     },
-    "1890.00": {
+    "332.50": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-01T11:28:14.129Z"
+      "lastUpdated": "2025-11-02T11:27:59.642Z"
     },
-    "1620.00": {
+    "328.00": {
+      "score": 55,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-11-02T11:27:59.642Z"
+    },
+    "502.80": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-01T11:28:14.129Z"
-    },
-    "363.70": {
-      "score": 50,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Above VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-01T11:28:14.129Z"
+      "lastUpdated": "2025-11-02T11:27:59.642Z"
     }
   },
   "trendlineStocks": {},
@@ -37,25 +37,25 @@
     }
   },
   "heatmapStocks": {
-    "2002.10": {
+    "528.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-01T11:28:14.131Z"
+      "lastUpdated": "2025-11-02T11:27:59.644Z"
     },
-    "1890.00": {
+    "332.50": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-01T11:28:14.131Z"
+      "lastUpdated": "2025-11-02T11:27:59.644Z"
     },
-    "1620.00": {
+    "328.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-01T11:28:14.131Z"
+      "lastUpdated": "2025-11-02T11:27:59.644Z"
     },
-    "363.70": {
+    "502.80": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-01T11:28:14.131Z"
+      "lastUpdated": "2025-11-02T11:27:59.644Z"
     }
   }
 }
