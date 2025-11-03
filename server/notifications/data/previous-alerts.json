@@ -1,29 +1,17 @@
 {
-  "lastUpdated": "2025-11-02T11:27:59.644Z",
+  "lastUpdated": "2025-11-03T11:30:27.142Z",
   "institutionalStocks": {
-    "528.00": {
-      "score": 80,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-02T11:27:59.642Z"
+    "480.00": {
+      "score": 15,
+      "price": 65,
+      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Stopping Volume (Bearish), Upthrust Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-11-03T11:30:27.140Z"
     },
-    "332.50": {
-      "score": 55,
+    "1479.00": {
+      "score": 50,
       "price": 0,
-      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-02T11:27:59.642Z"
-    },
-    "328.00": {
-      "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-02T11:27:59.642Z"
-    },
-    "502.80": {
-      "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-02T11:27:59.642Z"
+      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-11-03T11:30:27.140Z"
     }
   },
   "trendlineStocks": {},
@@ -37,25 +25,15 @@
     }
   },
   "heatmapStocks": {
-    "528.00": {
+    "480.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-02T11:27:59.644Z"
+      "lastUpdated": "2025-11-03T11:30:27.142Z"
     },
-    "332.50": {
+    "1479.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-02T11:27:59.644Z"
-    },
-    "328.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-11-02T11:27:59.644Z"
-    },
-    "502.80": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-11-02T11:27:59.644Z"
+      "lastUpdated": "2025-11-03T11:30:27.142Z"
     }
   }
 }
