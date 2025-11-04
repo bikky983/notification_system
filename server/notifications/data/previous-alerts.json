@@ -1,39 +1,42 @@
 {
-  "lastUpdated": "2025-11-03T11:30:27.142Z",
+  "lastUpdated": "2025-11-04T11:32:13.657Z",
   "institutionalStocks": {
-    "480.00": {
-      "score": 15,
-      "price": 65,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Stopping Volume (Bearish), Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-03T11:30:27.140Z"
-    },
-    "1479.00": {
-      "score": 50,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-03T11:30:27.140Z"
+    "1455.20": {
+      "score": 20,
+      "price": 55,
+      "patterns": "Volume Spike (Bearish), Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bearish)",
+      "lastUpdated": "2025-11-04T11:32:13.654Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "MBL\n                New": {
-      "ltp": 213,
-      "rsi": 34.42,
-      "supportPrice1": 210,
+    "EHPL\n                New": {
+      "ltp": 422,
+      "rsi": 26.06,
+      "supportPrice1": 425.6,
       "diff1": "",
-      "lastUpdated": "2025-11-01T11:28:14.131Z"
+      "lastUpdated": "2025-11-04T11:32:13.657Z"
+    },
+    "MNBBL\n                NewBought": {
+      "ltp": 369,
+      "rsi": 28.36,
+      "supportPrice1": 353.46,
+      "diff1": "",
+      "lastUpdated": "2025-11-04T11:32:13.657Z"
+    },
+    "BNT\n                New": {
+      "ltp": 10713,
+      "rsi": 33.97,
+      "supportPrice1": 10400,
+      "diff1": "",
+      "lastUpdated": "2025-11-04T11:32:13.657Z"
     }
   },
   "heatmapStocks": {
-    "480.00": {
+    "1455.20": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-03T11:30:27.142Z"
-    },
-    "1479.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-11-03T11:30:27.142Z"
+      "lastUpdated": "2025-11-04T11:32:13.656Z"
     }
   }
 }
