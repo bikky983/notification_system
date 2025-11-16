@@ -1,56 +1,63 @@
 {
-  "lastUpdated": "2025-11-15T11:28:27.926Z",
+  "lastUpdated": "2025-11-16T11:28:25.102Z",
   "institutionalStocks": {
-    "609.00": {
-      "score": 55,
+    "423.00": {
+      "score": 60,
       "price": 0,
-      "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-15T11:28:27.924Z"
+      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Narrow Range, High Volume (Bullish), Below VWAP",
+      "lastUpdated": "2025-11-16T11:28:25.099Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
     "MNBBL\n                NewBought": {
-      "ltp": 347.4,
-      "rsi": 22.91,
+      "ltp": 347,
+      "rsi": 22.8,
       "supportPrice1": 353.46,
       "diff1": "",
-      "lastUpdated": "2025-11-15T11:28:27.926Z"
+      "lastUpdated": "2025-11-16T11:28:25.102Z"
     },
     "HBL\n                New": {
-      "ltp": 189,
-      "rsi": 31.53,
+      "ltp": 187.8,
+      "rsi": 30.19,
       "supportPrice1": 182.95,
       "diff1": "",
-      "lastUpdated": "2025-11-15T11:28:27.926Z"
-    },
-    "SMH\n                New": {
-      "ltp": 751.9,
-      "rsi": 33.6,
-      "supportPrice1": 750,
-      "diff1": "",
-      "lastUpdated": "2025-11-15T11:28:27.926Z"
+      "lastUpdated": "2025-11-16T11:28:25.102Z"
     },
     "SPIL\n                New": {
-      "ltp": 658,
-      "rsi": 34.31,
+      "ltp": 650,
+      "rsi": 32.14,
       "supportPrice1": 656,
       "diff1": "",
-      "lastUpdated": "2025-11-15T11:28:27.926Z"
+      "lastUpdated": "2025-11-16T11:28:25.102Z"
     },
-    "MBL\n                New": {
-      "ltp": 209.1,
-      "rsi": 34.64,
-      "supportPrice1": 210,
+    "SMH\n                New": {
+      "ltp": 752,
+      "rsi": 33.65,
+      "supportPrice1": 750,
       "diff1": "",
-      "lastUpdated": "2025-11-15T11:28:27.926Z"
+      "lastUpdated": "2025-11-16T11:28:25.102Z"
+    },
+    "CYCL\n                New": {
+      "ltp": 1489.9,
+      "rsi": 33.68,
+      "supportPrice1": 1502.47,
+      "diff1": "",
+      "lastUpdated": "2025-11-16T11:28:25.102Z"
+    },
+    "KBL\n                New": {
+      "ltp": 178.5,
+      "rsi": 34.09,
+      "supportPrice1": 172.24,
+      "diff1": "",
+      "lastUpdated": "2025-11-16T11:28:25.102Z"
     }
   },
   "heatmapStocks": {
-    "609.00": {
+    "423.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-15T11:28:27.925Z"
+      "lastUpdated": "2025-11-16T11:28:25.101Z"
     }
   }
 }
