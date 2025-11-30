@@ -1,61 +1,101 @@
 {
-  "lastUpdated": "2025-11-29T11:30:12.009Z",
+  "lastUpdated": "2025-11-30T11:29:50.848Z",
   "institutionalStocks": {
-    "555.00": {
-      "score": 80,
-      "price": 20,
-      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Narrow Range, High Volume (Bullish), Below VWAP, Spring Pattern, Upthrust Pattern",
-      "lastUpdated": "2025-11-29T11:30:12.007Z"
-    },
-    "678.00": {
+    "1625.00": {
       "score": 60,
       "price": 15,
-      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Narrow Range, High Volume (Bullish), Below VWAP, Stopping Volume (Bullish), Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-11-29T11:30:12.007Z"
+      "patterns": "OBV Bullish Divergence, Narrow Range, High Volume (Bearish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-11-30T11:29:50.845Z"
     },
-    "407.00": {
+    "910.00": {
       "score": 0,
       "price": 55,
-      "patterns": "Volume Spike (Bearish), Narrow Range, High Volume (Bearish), Below VWAP, Upthrust Pattern",
-      "lastUpdated": "2025-11-29T11:30:12.007Z"
+      "patterns": "Volume Spike (Bearish), Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
+      "lastUpdated": "2025-11-30T11:29:50.845Z"
     },
-    "687.00": {
-      "score": 50,
-      "price": 20,
-      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Stopping Volume (Bullish), Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-11-29T11:30:12.007Z"
+    "6288.90": {
+      "score": 20,
+      "price": 55,
+      "patterns": "Volume Spike (Bearish), Above VWAP, Stopping Volume (Bearish), Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bearish)",
+      "lastUpdated": "2025-11-30T11:29:50.845Z"
+    },
+    "319.00": {
+      "score": 0,
+      "price": 55,
+      "patterns": "Volume Spike (Bearish), Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
+      "lastUpdated": "2025-11-30T11:29:50.845Z"
+    },
+    "400.00": {
+      "score": 20,
+      "price": 55,
+      "patterns": "Volume Spike (Bearish), Below VWAP, Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bearish)",
+      "lastUpdated": "2025-11-30T11:29:50.845Z"
+    },
+    "2000.00": {
+      "score": 20,
+      "price": 50,
+      "patterns": "Narrow Range, High Volume (Bearish), Below VWAP, Spring Pattern, Upthrust Pattern, Statistical Anomaly (Bearish)",
+      "lastUpdated": "2025-11-30T11:29:50.845Z"
+    },
+    "490.00": {
+      "score": 0,
+      "price": 50,
+      "patterns": "Volume Spike (Bearish), Narrow Range, High Volume (Bearish), Below VWAP, Stopping Volume (Bearish), Statistical Anomaly (Bearish)",
+      "lastUpdated": "2025-11-30T11:29:50.845Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "SHL\n                New": {
-      "ltp": 477.9,
-      "rsi": 32.52,
-      "supportPrice1": 467.45,
+    "NRN\n                New": {
+      "ltp": 1500,
+      "rsi": 23.8,
+      "supportPrice1": 1518.75,
       "diff1": "",
-      "lastUpdated": "2025-11-25T11:32:58.311Z"
+      "lastUpdated": "2025-11-30T11:29:50.848Z"
+    },
+    "MNBBL\n                NewBought": {
+      "ltp": 353.5,
+      "rsi": 34.61,
+      "supportPrice1": 353.46,
+      "diff1": "",
+      "lastUpdated": "2025-11-30T11:29:50.848Z"
     }
   },
   "heatmapStocks": {
-    "555.00": {
+    "1625.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-29T11:30:12.009Z"
+      "lastUpdated": "2025-11-30T11:29:50.847Z"
     },
-    "678.00": {
+    "910.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-29T11:30:12.009Z"
+      "lastUpdated": "2025-11-30T11:29:50.847Z"
     },
-    "407.00": {
+    "6288.90": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-29T11:30:12.009Z"
+      "lastUpdated": "2025-11-30T11:29:50.847Z"
     },
-    "687.00": {
+    "319.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-11-29T11:30:12.009Z"
+      "lastUpdated": "2025-11-30T11:29:50.847Z"
+    },
+    "400.00": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-11-30T11:29:50.847Z"
+    },
+    "2000.00": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-11-30T11:29:50.847Z"
+    },
+    "490.00": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-11-30T11:29:50.847Z"
     }
   }
 }
