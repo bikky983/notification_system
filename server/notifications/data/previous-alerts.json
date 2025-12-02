@@ -1,39 +1,28 @@
 {
-  "lastUpdated": "2025-12-01T11:32:56.687Z",
+  "lastUpdated": "2025-12-02T11:33:46.221Z",
   "institutionalStocks": {
-    "316.00": {
-      "score": 0,
-      "price": 80,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Stopping Volume (Bearish), Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-12-01T11:32:56.684Z"
-    },
-    "1997.00": {
-      "score": 0,
-      "price": 50,
-      "patterns": "Narrow Range, High Volume (Bearish), Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-12-01T11:32:56.684Z"
+    "1680.00": {
+      "score": 50,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Stopping Volume (Bullish), Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-12-02T11:33:46.219Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
     "MNBBL\n                NewBought": {
-      "ltp": 353.2,
-      "rsi": 34.44,
+      "ltp": 351,
+      "rsi": 33.21,
       "supportPrice1": 353.46,
       "diff1": "",
-      "lastUpdated": "2025-12-01T11:32:56.687Z"
+      "lastUpdated": "2025-12-02T11:33:46.221Z"
     }
   },
   "heatmapStocks": {
-    "316.00": {
+    "1680.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-12-01T11:32:56.686Z"
-    },
-    "1997.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-12-01T11:32:56.686Z"
+      "lastUpdated": "2025-12-02T11:33:46.221Z"
     }
   }
 }
