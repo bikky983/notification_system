@@ -1,28 +1,64 @@
 {
-  "lastUpdated": "2025-12-06T11:30:03.216Z",
+  "lastUpdated": "2025-12-07T11:29:24.401Z",
   "institutionalStocks": {
-    "399.90": {
+    "434.60": {
+      "score": 60,
+      "price": 0,
+      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Narrow Range, High Volume (Bullish), Below VWAP",
+      "lastUpdated": "2025-12-07T11:29:24.398Z"
+    },
+    "990.00": {
+      "score": 0,
+      "price": 55,
+      "patterns": "Volume Spike (Bearish), Narrow Range, High Volume (Bearish), Below VWAP, Upthrust Pattern",
+      "lastUpdated": "2025-12-07T11:29:24.398Z"
+    },
+    "3736.90": {
       "score": 50,
       "price": 0,
-      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-12-06T11:30:03.214Z"
+      "patterns": "Narrow Range, High Volume (Bullish), Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2025-12-07T11:29:24.398Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "MNBBL\n                NewBought": {
-      "ltp": 347.9,
-      "rsi": 31.5,
-      "supportPrice1": 353.46,
+    "MEN\n                New": {
+      "ltp": 542.6,
+      "rsi": 27.21,
+      "supportPrice1": 523.69,
       "diff1": "",
-      "lastUpdated": "2025-12-06T11:30:03.216Z"
+      "lastUpdated": "2025-12-07T11:29:24.401Z"
+    },
+    "SIKLES\n                New": {
+      "ltp": 572,
+      "rsi": 27.72,
+      "supportPrice1": 576,
+      "diff1": "",
+      "lastUpdated": "2025-12-07T11:29:24.401Z"
+    },
+    "USLB\n                New": {
+      "ltp": 1589,
+      "rsi": 34.86,
+      "supportPrice1": 1562.72,
+      "diff1": "",
+      "lastUpdated": "2025-12-07T11:29:24.401Z"
     }
   },
   "heatmapStocks": {
-    "399.90": {
+    "434.60": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-12-06T11:30:03.216Z"
+      "lastUpdated": "2025-12-07T11:29:24.400Z"
+    },
+    "990.00": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-12-07T11:29:24.400Z"
+    },
+    "3736.90": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2025-12-07T11:29:24.400Z"
     }
   }
 }
