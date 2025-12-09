@@ -1,53 +1,35 @@
 {
-  "lastUpdated": "2025-12-08T11:33:38.695Z",
+  "lastUpdated": "2025-12-09T11:33:59.266Z",
   "institutionalStocks": {
-    "569.00": {
+    "772.90": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-12-08T11:33:38.687Z"
-    },
-    "1740.00": {
-      "score": 50,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-12-08T11:33:38.687Z"
+      "lastUpdated": "2025-12-09T11:33:59.263Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "MEN\n                New": {
-      "ltp": 538,
-      "rsi": 26.57,
-      "supportPrice1": 523.69,
-      "diff1": "",
-      "lastUpdated": "2025-12-08T11:33:38.695Z"
-    },
     "SIKLES\n                New": {
-      "ltp": 564.5,
-      "rsi": 26.72,
+      "ltp": 566,
+      "rsi": 27.29,
       "supportPrice1": 576,
       "diff1": "",
-      "lastUpdated": "2025-12-08T11:33:38.695Z"
+      "lastUpdated": "2025-12-09T11:33:59.266Z"
     },
-    "USLB\n                New": {
-      "ltp": 1540,
-      "rsi": 32.78,
-      "supportPrice1": 1562.72,
+    "MEN\n                New": {
+      "ltp": 542,
+      "rsi": 28.14,
+      "supportPrice1": 523.69,
       "diff1": "",
-      "lastUpdated": "2025-12-08T11:33:38.695Z"
+      "lastUpdated": "2025-12-09T11:33:59.266Z"
     }
   },
   "heatmapStocks": {
-    "569.00": {
+    "772.90": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-12-08T11:33:38.695Z"
-    },
-    "1740.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2025-12-08T11:33:38.695Z"
+      "lastUpdated": "2025-12-09T11:33:59.265Z"
     }
   }
 }
