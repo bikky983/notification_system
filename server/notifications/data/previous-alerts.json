@@ -1,85 +1,78 @@
 {
-  "lastUpdated": "2025-12-15T11:35:08.054Z",
+  "lastUpdated": "2025-12-16T11:35:05.272Z",
   "institutionalStocks": {
     "406.00": {
       "score": 60,
       "price": 0,
       "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Below VWAP, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-12-15T11:35:08.051Z"
+      "lastUpdated": "2025-12-16T11:35:05.269Z"
     },
     "1525.00": {
       "score": 50,
       "price": 0,
       "patterns": "Narrow Range, High Volume (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2025-12-15T11:35:08.051Z"
+      "lastUpdated": "2025-12-16T11:35:05.269Z"
     },
     "582.00": {
       "score": 20,
       "price": 50,
       "patterns": "Volume Spike (Bearish), Narrow Range, High Volume (Bearish), Below VWAP, Spring Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2025-12-15T11:35:08.051Z"
+      "lastUpdated": "2025-12-16T11:35:05.269Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "MEN\n                New": {
-      "ltp": 546.9,
-      "rsi": 30.95,
-      "supportPrice1": 523.69,
-      "diff1": "",
-      "lastUpdated": "2025-12-15T11:35:08.054Z"
-    },
     "ACLBSL\n                New": {
-      "ltp": 939,
+      "ltp": 948.9,
       "rsi": 31.23,
       "supportPrice1": 956.85,
       "diff1": "",
-      "lastUpdated": "2025-12-15T11:35:08.054Z"
+      "lastUpdated": "2025-12-16T11:35:05.272Z"
     },
     "GCIL\n                New": {
-      "ltp": 407.9,
+      "ltp": 414,
       "rsi": 31.58,
       "supportPrice1": 400,
       "diff1": "",
-      "lastUpdated": "2025-12-15T11:35:08.054Z"
-    },
-    "MKJC\n                New": {
-      "ltp": 511,
-      "rsi": 33.06,
-      "supportPrice1": 489.93,
-      "diff1": "",
-      "lastUpdated": "2025-12-15T11:35:08.054Z"
+      "lastUpdated": "2025-12-16T11:35:05.272Z"
     },
     "NRIC\n                New": {
-      "ltp": 1255,
+      "ltp": 1265,
       "rsi": 33.57,
       "supportPrice1": 1212.36,
       "diff1": "",
-      "lastUpdated": "2025-12-15T11:35:08.054Z"
+      "lastUpdated": "2025-12-16T11:35:05.272Z"
     },
     "SADBL\n                New": {
-      "ltp": 379.9,
+      "ltp": 389.8,
       "rsi": 33.73,
       "supportPrice1": 380,
       "diff1": "",
-      "lastUpdated": "2025-12-15T11:35:08.054Z"
+      "lastUpdated": "2025-12-16T11:35:05.272Z"
+    },
+    "MNBBL\n                NewBought": {
+      "ltp": 351.6,
+      "rsi": 33.75,
+      "supportPrice1": 353.46,
+      "diff1": "",
+      "lastUpdated": "2025-12-16T11:35:05.272Z"
     }
   },
   "heatmapStocks": {
     "406.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-12-15T11:35:08.053Z"
+      "lastUpdated": "2025-12-16T11:35:05.271Z"
     },
     "1525.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-12-15T11:35:08.053Z"
+      "lastUpdated": "2025-12-16T11:35:05.271Z"
     },
     "582.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2025-12-15T11:35:08.053Z"
+      "lastUpdated": "2025-12-16T11:35:05.271Z"
     }
   }
 }
