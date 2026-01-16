@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-01-15T11:36:13.572Z",
+  "lastUpdated": "2026-01-16T11:35:09.603Z",
   "institutionalStocks": {
     "502.80": {
       "score": 65,
       "price": 15,
       "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2026-01-15T11:36:13.569Z"
+      "lastUpdated": "2026-01-16T11:35:09.599Z"
     },
     "473.70": {
       "score": 15,
       "price": 65,
       "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-01-15T11:36:13.569Z"
+      "lastUpdated": "2026-01-16T11:35:09.599Z"
     },
     "594.80": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-01-15T11:36:13.569Z"
+      "lastUpdated": "2026-01-16T11:35:09.599Z"
     },
     "475.00": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-01-15T11:36:13.569Z"
+      "lastUpdated": "2026-01-16T11:35:09.599Z"
     },
     "583.90": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-01-15T11:36:13.569Z"
+      "lastUpdated": "2026-01-16T11:35:09.599Z"
     },
     "807.00": {
       "score": 20,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Circular Trading Pattern",
-      "lastUpdated": "2026-01-15T11:36:13.569Z"
+      "lastUpdated": "2026-01-16T11:35:09.599Z"
     }
   },
   "trendlineStocks": {},
@@ -45,53 +45,53 @@
       "rsi": 24.01,
       "supportPrice1": 778.07,
       "diff1": "",
-      "lastUpdated": "2026-01-15T11:36:13.572Z"
+      "lastUpdated": "2026-01-16T11:35:09.603Z"
     },
     "SMB\n                New": {
       "ltp": 1783,
       "rsi": 26.88,
       "supportPrice1": 1728.27,
       "diff1": "",
-      "lastUpdated": "2026-01-15T11:36:13.572Z"
+      "lastUpdated": "2026-01-16T11:35:09.603Z"
     },
     "AHPC\n                New": {
       "ltp": 258.5,
       "rsi": 32.94,
       "supportPrice1": 258.58,
       "diff1": "",
-      "lastUpdated": "2026-01-15T11:36:13.572Z"
+      "lastUpdated": "2026-01-16T11:35:09.603Z"
     }
   },
   "heatmapStocks": {
     "502.80": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-15T11:36:13.571Z"
+      "lastUpdated": "2026-01-16T11:35:09.602Z"
     },
     "473.70": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-15T11:36:13.571Z"
+      "lastUpdated": "2026-01-16T11:35:09.602Z"
     },
     "594.80": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-15T11:36:13.571Z"
+      "lastUpdated": "2026-01-16T11:35:09.602Z"
     },
     "475.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-15T11:36:13.571Z"
+      "lastUpdated": "2026-01-16T11:35:09.602Z"
     },
     "583.90": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-15T11:36:13.571Z"
+      "lastUpdated": "2026-01-16T11:35:09.602Z"
     },
     "807.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-15T11:36:13.571Z"
+      "lastUpdated": "2026-01-16T11:35:09.602Z"
     }
   }
 }
