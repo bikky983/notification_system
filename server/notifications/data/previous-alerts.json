@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-01-30T11:45:56.328Z",
+  "lastUpdated": "2026-01-31T11:36:30.981Z",
   "institutionalStocks": {
     "240.00": {
       "score": 60,
       "price": 20,
       "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-01-30T11:45:56.326Z"
+      "lastUpdated": "2026-01-31T11:36:30.979Z"
     },
     "490.00": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-01-30T11:45:56.326Z"
+      "lastUpdated": "2026-01-31T11:36:30.979Z"
     },
     "215.80": {
       "score": 0,
       "price": 55,
       "patterns": "Volume Spike (Bearish), Below VWAP, Stopping Volume (Bearish), Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2026-01-30T11:45:56.326Z"
+      "lastUpdated": "2026-01-31T11:36:30.979Z"
     }
   },
   "trendlineStocks": {},
@@ -34,17 +34,17 @@
     "240.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-30T11:45:56.328Z"
+      "lastUpdated": "2026-01-31T11:36:30.981Z"
     },
     "490.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-30T11:45:56.328Z"
+      "lastUpdated": "2026-01-31T11:36:30.981Z"
     },
     "215.80": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-01-30T11:45:56.328Z"
+      "lastUpdated": "2026-01-31T11:36:30.981Z"
     }
   }
 }
