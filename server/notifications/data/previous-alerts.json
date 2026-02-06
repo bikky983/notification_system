@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "2026-02-05T11:53:10.887Z",
+  "lastUpdated": "2026-02-06T11:51:27.156Z",
   "institutionalStocks": {
+    "277.00": {
+      "score": 60,
+      "price": 20,
+      "patterns": "Volume Spike (Bullish), OBV Bullish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2026-02-06T11:51:27.154Z"
+    },
     "1337.80": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-02-05T11:53:10.885Z"
+      "lastUpdated": "2026-02-06T11:51:27.154Z"
     },
     "1285.00": {
       "score": 55,
       "price": 0,
       "patterns": "Volume Spike (Bullish), Above VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-02-05T11:53:10.885Z"
+      "lastUpdated": "2026-02-06T11:51:27.154Z"
+    },
+    "234.10": {
+      "score": 55,
+      "price": 0,
+      "patterns": "OBV Bullish Divergence, Narrow Range, High Volume (Bullish), Below VWAP, Statistical Anomaly (Bullish)",
+      "lastUpdated": "2026-02-06T11:51:27.154Z"
     },
     "14910.00": {
       "score": 0,
       "price": 0,
       "patterns": "Below VWAP, Circular Trading Pattern",
-      "lastUpdated": "2026-02-05T11:53:10.885Z"
+      "lastUpdated": "2026-02-06T11:51:27.154Z"
     }
   },
   "trendlineStocks": {},
@@ -38,20 +50,30 @@
     }
   },
   "heatmapStocks": {
+    "277.00": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2026-02-06T11:51:27.156Z"
+    },
     "1337.80": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-02-05T11:53:10.887Z"
+      "lastUpdated": "2026-02-06T11:51:27.156Z"
     },
     "1285.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-02-05T11:53:10.887Z"
+      "lastUpdated": "2026-02-06T11:51:27.156Z"
+    },
+    "234.10": {
+      "price": 0,
+      "volume": 0,
+      "lastUpdated": "2026-02-06T11:51:27.156Z"
     },
     "14910.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-02-05T11:53:10.887Z"
+      "lastUpdated": "2026-02-06T11:51:27.156Z"
     }
   }
 }
