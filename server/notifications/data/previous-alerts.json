@@ -1,60 +1,53 @@
 {
-  "lastUpdated": "2026-02-10T12:02:20.339Z",
+  "lastUpdated": "2026-02-11T12:01:14.389Z",
   "institutionalStocks": {
-    "551.20": {
+    "555.00": {
       "score": 60,
       "price": 0,
       "patterns": "OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-02-10T12:02:20.334Z"
+      "lastUpdated": "2026-02-11T12:01:14.387Z"
     },
-    "15060.00": {
+    "15016.00": {
       "score": 0,
       "price": 0,
       "patterns": "Below VWAP, Circular Trading Pattern",
-      "lastUpdated": "2026-02-10T12:02:20.334Z"
+      "lastUpdated": "2026-02-11T12:01:14.387Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "SMHL\n                New": {
-      "ltp": 468.9,
-      "rsi": 32.64,
-      "supportPrice1": 456,
-      "diff1": "",
-      "lastUpdated": "2026-02-10T12:02:20.339Z"
-    },
-    "PCBL\n                New": {
-      "ltp": 232.3,
-      "rsi": 33.07,
-      "supportPrice1": 230,
-      "diff1": "",
-      "lastUpdated": "2026-02-10T12:02:20.339Z"
-    },
     "LSL\n                New": {
-      "ltp": 207.5,
-      "rsi": 33.43,
+      "ltp": 205.6,
+      "rsi": 30.95,
       "supportPrice1": 200,
       "diff1": "",
-      "lastUpdated": "2026-02-10T12:02:20.339Z"
+      "lastUpdated": "2026-02-11T12:01:14.389Z"
     },
-    "SPIL\n                New": {
-      "ltp": 686.1,
-      "rsi": 33.57,
-      "supportPrice1": 656,
+    "SMHL\n                New": {
+      "ltp": 461,
+      "rsi": 31.66,
+      "supportPrice1": 456,
       "diff1": "",
-      "lastUpdated": "2026-02-10T12:02:20.339Z"
+      "lastUpdated": "2026-02-11T12:01:14.389Z"
+    },
+    "NUBL\n                New": {
+      "ltp": 696,
+      "rsi": 34.63,
+      "supportPrice1": 671.63,
+      "diff1": "",
+      "lastUpdated": "2026-02-11T12:01:14.389Z"
     }
   },
   "heatmapStocks": {
-    "551.20": {
+    "555.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-02-10T12:02:20.339Z"
+      "lastUpdated": "2026-02-11T12:01:14.389Z"
     },
-    "15060.00": {
+    "15016.00": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-02-10T12:02:20.339Z"
+      "lastUpdated": "2026-02-11T12:01:14.389Z"
     }
   }
 }
