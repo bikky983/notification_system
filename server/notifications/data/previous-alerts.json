@@ -1,35 +1,11 @@
 {
-  "lastUpdated": "2026-03-16T12:00:49.000Z",
+  "lastUpdated": "2026-03-17T11:59:02.273Z",
   "institutionalStocks": {
-    "1589.40": {
-      "score": 0,
-      "price": 65,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Below VWAP, Upthrust Pattern",
-      "lastUpdated": "2026-03-16T12:00:48.998Z"
-    },
-    "430.30": {
-      "score": 0,
-      "price": 65,
-      "patterns": "Volume Spike (Bearish), OBV Bearish Divergence, Upthrust Pattern",
-      "lastUpdated": "2026-03-16T12:00:48.998Z"
-    },
-    "313.10": {
+    "615.50": {
       "score": 0,
       "price": 60,
       "patterns": "OBV Bearish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2026-03-16T12:00:48.998Z"
-    },
-    "941.00": {
-      "score": 0,
-      "price": 50,
-      "patterns": "Narrow Range, High Volume (Bearish), Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2026-03-16T12:00:48.998Z"
-    },
-    "537.00": {
-      "score": 50,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Stopping Volume (Bullish), Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-03-16T12:00:48.998Z"
+      "lastUpdated": "2026-03-17T11:59:02.271Z"
     }
   },
   "trendlineStocks": {},
@@ -43,30 +19,10 @@
     }
   },
   "heatmapStocks": {
-    "1589.40": {
+    "615.50": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-03-16T12:00:49.000Z"
-    },
-    "430.30": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2026-03-16T12:00:49.000Z"
-    },
-    "313.10": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2026-03-16T12:00:49.000Z"
-    },
-    "941.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2026-03-16T12:00:49.000Z"
-    },
-    "537.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2026-03-16T12:00:49.000Z"
+      "lastUpdated": "2026-03-17T11:59:02.273Z"
     }
   }
 }
