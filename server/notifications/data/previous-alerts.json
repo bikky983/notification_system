@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-17T11:59:02.273Z",
+  "lastUpdated": "2026-03-18T12:01:52.870Z",
   "institutionalStocks": {
     "615.50": {
       "score": 0,
       "price": 60,
       "patterns": "OBV Bearish Divergence, Below VWAP, Upthrust Pattern, Statistical Anomaly (Bearish)",
-      "lastUpdated": "2026-03-17T11:59:02.271Z"
+      "lastUpdated": "2026-03-18T12:01:52.869Z"
     }
   },
   "trendlineStocks": {},
@@ -22,7 +22,7 @@
     "615.50": {
       "price": 0,
       "volume": 0,
-      "lastUpdated": "2026-03-17T11:59:02.273Z"
+      "lastUpdated": "2026-03-18T12:01:52.870Z"
     }
   }
 }
