@@ -1,28 +1,57 @@
 {
-  "lastUpdated": "2026-04-23T12:11:04.042Z",
+  "lastUpdated": "2026-04-24T12:09:21.496Z",
   "institutionalStocks": {
-    "1100.00": {
-      "score": 60,
-      "price": 0,
-      "patterns": "OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-04-23T12:11:04.040Z"
+    "undefined": {
+      "score": 0,
+      "price": null,
+      "patterns": "",
+      "lastUpdated": "2026-04-24T12:09:21.493Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
+    "SMB\n                New": {
+      "ltp": 1750,
+      "rsi": 32.39,
+      "supportPrice1": 1728.27,
+      "diff1": "",
+      "lastUpdated": "2026-04-24T12:09:21.496Z"
+    },
+    "VLUCL\n                New": {
+      "ltp": 520,
+      "rsi": 33.44,
+      "supportPrice1": 496.52,
+      "diff1": "",
+      "lastUpdated": "2026-04-24T12:09:21.496Z"
+    },
+    "MLBS\n                New": {
+      "ltp": 1341,
+      "rsi": 33.83,
+      "supportPrice1": 1328.53,
+      "diff1": "",
+      "lastUpdated": "2026-04-24T12:09:21.496Z"
+    },
+    "TSHL\n                New": {
+      "ltp": 635,
+      "rsi": 33.91,
+      "supportPrice1": 632.49,
+      "diff1": "",
+      "lastUpdated": "2026-04-24T12:09:21.496Z"
+    },
     "RAWA\n                New": {
-      "ltp": 657,
-      "rsi": 34.62,
+      "ltp": 648.7,
+      "rsi": 34.33,
       "supportPrice1": 626.56,
       "diff1": "",
-      "lastUpdated": "2026-04-20T12:16:26.970Z"
+      "lastUpdated": "2026-04-24T12:09:21.496Z"
+    },
+    "CREST\n                New": {
+      "ltp": 1192,
+      "rsi": 34.81,
+      "supportPrice1": 1200,
+      "diff1": "",
+      "lastUpdated": "2026-04-24T12:09:21.496Z"
     }
   },
-  "heatmapStocks": {
-    "1100.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2026-04-23T12:11:04.042Z"
-    }
-  }
+  "heatmapStocks": {}
 }
