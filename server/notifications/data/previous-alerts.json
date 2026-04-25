@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-04-24T12:09:21.496Z",
+  "lastUpdated": "2026-04-25T11:57:55.611Z",
   "institutionalStocks": {
     "undefined": {
       "score": 0,
       "price": null,
       "patterns": "",
-      "lastUpdated": "2026-04-24T12:09:21.493Z"
+      "lastUpdated": "2026-04-25T11:57:55.608Z"
     }
   },
   "trendlineStocks": {},
@@ -15,42 +15,42 @@
       "rsi": 32.39,
       "supportPrice1": 1728.27,
       "diff1": "",
-      "lastUpdated": "2026-04-24T12:09:21.496Z"
+      "lastUpdated": "2026-04-25T11:57:55.611Z"
     },
     "VLUCL\n                New": {
       "ltp": 520,
       "rsi": 33.44,
       "supportPrice1": 496.52,
       "diff1": "",
-      "lastUpdated": "2026-04-24T12:09:21.496Z"
+      "lastUpdated": "2026-04-25T11:57:55.611Z"
     },
     "MLBS\n                New": {
       "ltp": 1341,
       "rsi": 33.83,
       "supportPrice1": 1328.53,
       "diff1": "",
-      "lastUpdated": "2026-04-24T12:09:21.496Z"
+      "lastUpdated": "2026-04-25T11:57:55.611Z"
     },
     "TSHL\n                New": {
       "ltp": 635,
       "rsi": 33.91,
       "supportPrice1": 632.49,
       "diff1": "",
-      "lastUpdated": "2026-04-24T12:09:21.496Z"
+      "lastUpdated": "2026-04-25T11:57:55.611Z"
     },
     "RAWA\n                New": {
       "ltp": 648.7,
       "rsi": 34.33,
       "supportPrice1": 626.56,
       "diff1": "",
-      "lastUpdated": "2026-04-24T12:09:21.496Z"
+      "lastUpdated": "2026-04-25T11:57:55.611Z"
     },
     "CREST\n                New": {
       "ltp": 1192,
       "rsi": 34.81,
       "supportPrice1": 1200,
       "diff1": "",
-      "lastUpdated": "2026-04-24T12:09:21.496Z"
+      "lastUpdated": "2026-04-25T11:57:55.611Z"
     }
   },
   "heatmapStocks": {}
