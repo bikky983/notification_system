@@ -1,77 +1,64 @@
 {
-  "lastUpdated": "2026-04-29T12:57:03.367Z",
+  "lastUpdated": "2026-04-30T12:57:48.740Z",
   "institutionalStocks": {
-    "1110.00": {
-      "score": 60,
-      "price": 0,
-      "patterns": "OBV Bullish Divergence, Below VWAP, Spring Pattern, Statistical Anomaly (Bullish)",
-      "lastUpdated": "2026-04-29T12:57:03.364Z"
+    "undefined": {
+      "score": 0,
+      "price": null,
+      "patterns": "",
+      "lastUpdated": "2026-04-30T12:57:48.737Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
     "DOLTI\n                New": {
-      "ltp": 373,
-      "rsi": 20.54,
+      "ltp": 364,
+      "rsi": 19.35,
       "supportPrice1": 360,
       "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
+      "lastUpdated": "2026-04-30T12:57:48.740Z"
     },
     "NMIC\n                New": {
-      "ltp": 1026,
-      "rsi": 24.95,
+      "ltp": 1010,
+      "rsi": 23.88,
       "supportPrice1": 1000,
       "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
+      "lastUpdated": "2026-04-30T12:57:48.740Z"
     },
     "VLUCL\n                New": {
-      "ltp": 495,
-      "rsi": 25.69,
+      "ltp": 494.8,
+      "rsi": 25.63,
       "supportPrice1": 496.52,
       "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
+      "lastUpdated": "2026-04-30T12:57:48.740Z"
     },
     "HATHY\n                New": {
-      "ltp": 826,
-      "rsi": 30.81,
+      "ltp": 814,
+      "rsi": 28.78,
       "supportPrice1": 800,
       "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
+      "lastUpdated": "2026-04-30T12:57:48.740Z"
     },
     "MMKJL\n                New": {
-      "ltp": 508.2,
-      "rsi": 31.65,
+      "ltp": 498,
+      "rsi": 28.81,
       "supportPrice1": 503.2,
       "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
+      "lastUpdated": "2026-04-30T12:57:48.740Z"
     },
     "VLBS\n                New": {
-      "ltp": 705,
-      "rsi": 31.76,
+      "ltp": 696.1,
+      "rsi": 30.05,
       "supportPrice1": 672.09,
       "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
+      "lastUpdated": "2026-04-30T12:57:48.740Z"
     },
     "SMB\n                New": {
-      "ltp": 1730,
-      "rsi": 32.08,
+      "ltp": 1718,
+      "rsi": 30.84,
       "supportPrice1": 1728.27,
       "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
-    },
-    "KDL\n                New": {
-      "ltp": 816,
-      "rsi": 34.47,
-      "supportPrice1": 778.07,
-      "diff1": "",
-      "lastUpdated": "2026-04-29T12:57:03.367Z"
+      "lastUpdated": "2026-04-30T12:57:48.740Z"
     }
   },
-  "heatmapStocks": {
-    "1110.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2026-04-29T12:57:03.366Z"
-    }
-  }
+  "heatmapStocks": {}
 }
