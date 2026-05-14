@@ -1,42 +1,63 @@
 {
-  "lastUpdated": "2026-05-13T13:32:43.424Z",
+  "lastUpdated": "2026-05-14T13:07:46.244Z",
   "institutionalStocks": {
     "undefined": {
       "score": 0,
       "price": null,
       "patterns": "",
-      "lastUpdated": "2026-05-13T13:32:43.421Z"
+      "lastUpdated": "2026-05-14T13:07:46.242Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
     "MEL\n                NewBought": {
-      "ltp": 226.5,
-      "rsi": 26.71,
+      "ltp": 226.1,
+      "rsi": 26.55,
       "supportPrice1": 222.3,
       "diff1": "",
-      "lastUpdated": "2026-05-13T13:32:43.424Z"
+      "lastUpdated": "2026-05-14T13:07:46.244Z"
     },
     "MSHL\n                New": {
-      "ltp": 691.4,
-      "rsi": 30.39,
+      "ltp": 681.4,
+      "rsi": 27.98,
       "supportPrice1": 675.66,
       "diff1": "",
-      "lastUpdated": "2026-05-13T13:32:43.424Z"
+      "lastUpdated": "2026-05-14T13:07:46.244Z"
+    },
+    "HRL\n                New": {
+      "ltp": 626,
+      "rsi": 29.51,
+      "supportPrice1": 624,
+      "diff1": "",
+      "lastUpdated": "2026-05-14T13:07:46.244Z"
     },
     "HATHY\n                New": {
-      "ltp": 805,
-      "rsi": 32.95,
+      "ltp": 799,
+      "rsi": 31.56,
       "supportPrice1": 800,
       "diff1": "",
-      "lastUpdated": "2026-05-13T13:32:43.424Z"
+      "lastUpdated": "2026-05-14T13:07:46.244Z"
     },
     "NMIC\n                New": {
-      "ltp": 1016,
-      "rsi": 33.89,
+      "ltp": 1000,
+      "rsi": 32.15,
       "supportPrice1": 1000,
       "diff1": "",
-      "lastUpdated": "2026-05-13T13:32:43.424Z"
+      "lastUpdated": "2026-05-14T13:07:46.244Z"
+    },
+    "NUBL\n                New": {
+      "ltp": 662,
+      "rsi": 32.95,
+      "supportPrice1": 671.63,
+      "diff1": "",
+      "lastUpdated": "2026-05-14T13:07:46.244Z"
+    },
+    "SFCL\n                NewBought": {
+      "ltp": 363.2,
+      "rsi": 34.28,
+      "supportPrice1": 346.63,
+      "diff1": "",
+      "lastUpdated": "2026-05-14T13:07:46.244Z"
     }
   },
   "heatmapStocks": {}
