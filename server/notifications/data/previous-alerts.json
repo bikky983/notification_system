@@ -1,56 +1,29 @@
 {
-  "lastUpdated": "2026-05-17T12:08:37.498Z",
+  "lastUpdated": "2026-05-20T13:49:34.809Z",
   "institutionalStocks": {
-    "404.00": {
-      "score": 55,
-      "price": 0,
-      "patterns": "Volume Spike (Bullish), Narrow Range, High Volume (Bullish), Below VWAP, Spring Pattern",
-      "lastUpdated": "2026-05-17T12:08:37.495Z"
+    "undefined": {
+      "score": 0,
+      "price": null,
+      "patterns": "",
+      "lastUpdated": "2026-05-20T13:49:34.806Z"
     }
   },
   "trendlineStocks": {},
   "rsiSupportStocks": {
-    "HATHY\n                New": {
-      "ltp": 790.2,
-      "rsi": 29.58,
-      "supportPrice1": 800,
-      "diff1": "",
-      "lastUpdated": "2026-05-17T12:08:37.498Z"
-    },
-    "HRL\n                New": {
-      "ltp": 631,
-      "rsi": 31.11,
-      "supportPrice1": 624,
-      "diff1": "",
-      "lastUpdated": "2026-05-17T12:08:37.498Z"
-    },
-    "NUBL\n                New": {
-      "ltp": 661,
-      "rsi": 32.38,
-      "supportPrice1": 671.63,
-      "diff1": "",
-      "lastUpdated": "2026-05-17T12:08:37.498Z"
-    },
-    "NMIC\n                New": {
-      "ltp": 1007.5,
-      "rsi": 33.86,
-      "supportPrice1": 1000,
-      "diff1": "",
-      "lastUpdated": "2026-05-17T12:08:37.498Z"
-    },
     "MSHL\n                New": {
-      "ltp": 693,
-      "rsi": 34.46,
+      "ltp": 676.4,
+      "rsi": 30.02,
       "supportPrice1": 675.66,
       "diff1": "",
-      "lastUpdated": "2026-05-17T12:08:37.498Z"
+      "lastUpdated": "2026-05-20T13:49:34.809Z"
+    },
+    "VLBS\n                New": {
+      "ltp": 683.2,
+      "rsi": 34.83,
+      "supportPrice1": 672.09,
+      "diff1": "",
+      "lastUpdated": "2026-05-20T13:49:34.809Z"
     }
   },
-  "heatmapStocks": {
-    "404.00": {
-      "price": 0,
-      "volume": 0,
-      "lastUpdated": "2026-05-17T12:08:37.497Z"
-    }
-  }
+  "heatmapStocks": {}
 }
